@@ -45,7 +45,7 @@ class _ChooseLocationState extends State<ChooseLocation> {
       backgroundColor: const Color.fromARGB(255, 9, 64, 109),
       appBar: AppBar(
         backgroundColor: const Color.fromARGB(255, 9, 64, 109),
-        title: const Text('Choose a Location'),
+        title: const Text('Choose Location'),
         elevation: 0,
       ),
       body: ListView.builder(
